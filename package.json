@@ -1,6 +1,11 @@
 {
   "name": "frontier-database",
   "version": "0.0.1",
+  "main": "frontierdb.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computertechie/frontier-database.git"
+  },
   "dependencies": {
     "mongoose": "^4.4.11"
   }
