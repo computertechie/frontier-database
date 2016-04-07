@@ -3,7 +3,7 @@
  */
 
 var mongoose = require("mongoose");
-var Collections = require("./lib/Collections");
+var Collections = require("./lib/collection");
 
 var FrontierDB = function (options) {
     mongoose.connect("mongodb://localhost/frontier");
