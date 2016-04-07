@@ -1,0 +1,7 @@
+{
+  "name": "frontier-database",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "^4.4.11"
+  }
+}
