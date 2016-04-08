@@ -1,12 +1,14 @@
 {
   "name": "frontier-database",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "frontierdb.js",
+  "description": "Database interface module for Frontier House project.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/computertechie/frontier-database.git"
   },
   "dependencies": {
+    "bluebird": "^3.3.4",
     "mongoose": "^4.4.11"
   }
 }
